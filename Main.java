@@ -9,7 +9,7 @@ class Main {
 	
 		if(n>0)
 		{
-			System.out.println("Postive");
+			System.out.println("Positive");
 		}
 		
 		else if(n==0)
