@@ -14,7 +14,7 @@ class Prime {
 		
 		else if(n<0)
 		{
-			System.out.println("Invalid");
+			System.out.println("invalid");
 		}
     else
     {
