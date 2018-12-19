@@ -3,12 +3,12 @@ int main(void)
 {
     long long n;
     int count = 0;
-    printf("Enter an integer: ");
+    printf(" ");
     scanf("%lld", &n);
     while(n != 0)
     {
     	n /= 10;
         ++count;
         }
-    printf("Number of digits: %d", count);
+    printf(%d", count);
 }
